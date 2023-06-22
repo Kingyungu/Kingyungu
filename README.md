@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kingyungu
 - 👀 I’m interested in computer technology
-- 🌱 I’m currently learning how to use unity and git hub
+- 
 - 💞️ I’m looking to collaborate on big rojects involving big co operrations that hava a positive impact on the world.
-- 📫 How to reach me 07798655506  /  kinyungua@gmail.com
+
 
 
 <!---
